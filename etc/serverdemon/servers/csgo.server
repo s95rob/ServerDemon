@@ -1,0 +1,4 @@
+SERVER_NAME = My CS:GO Deathmatch Server
+EXE_PATH = csgo.exe
+EXE_ARGS = -explode
+PORT = 27015

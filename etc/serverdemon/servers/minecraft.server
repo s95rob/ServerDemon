@@ -1,0 +1,5 @@
+SERVER_NAME = My Survival Minecraft Server
+EXE_PATH = /usr/lib/jvm/java-17-openjdk-arm64/bin/java
+EXE_ARGS = -Xms1024M -Xmx1024M -jar /home/rob/minecraft/server.jar
+SERVER_ROOT = /home/rob/minecraft
+PORT = 25565
