@@ -30,7 +30,7 @@ Hopefully this finds someone facing the same problem as I.
 | MAX_RAM | Maximum memory allowed for server program when multiple servers run concurrently (Coming soon) | Optional |
 
 ## Planned Features
-+ Run as a daemon (ServerD*a*emon) and add install script
++ Daemonize
 + Memory throttling when running multiple servers
 + Self testing and validation
 + Plan more features
