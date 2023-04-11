@@ -29,6 +29,6 @@ ServerDemon is a hopeful answer to a problem where a group of friends wanted ded
 
 ## Planned Features
 + Run as a daemon (ServerD*a*emon) and add install script
-+ Server software memory throttling between multiple running servers
++ Memory throttling when running multiple servers
 + Self testing and validation
 + Plan more features
