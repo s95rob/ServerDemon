@@ -7,7 +7,7 @@ ServerDemon is a hopeful answer to a problem where a group of friends wanted ded
 <br>
 ## Features
 + Automatically start and stop server software based on established connections: <br>
-ServerDemon will wait for connections on a specified port, and on receiving connections will hand the port back to the OS and run the server software. This works both ways, if the server software is running and no connections are present, the server software will be shutdown. 
+*ServerDemon will wait for connections on a specified port, and on receiving connections will hand the port back to the OS and run the server software. This works both ways, if the server software is running and no connections are present, the server software will be shutdown. *
 
 ## Dependencies
 + [inih (C++ version)](https://github.com/jtilly/inih)
