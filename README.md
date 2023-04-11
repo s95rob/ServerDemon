@@ -5,6 +5,8 @@ Automated game server manager for low-resource Linux machines.
 ServerDemon is a hopeful answer to a problem where a group of friends wanted dedicated servers for various games they play, but also wanted to spend the least amount of money each month on a VPS to host them. The tradeoff between value and performance when renting a VPS is stark, and running multiple servers concurrently would be too expensive of a task for a single, modestly endowed (virtual) machine. Performance needs to be lean and nimble. I also did not want to spend a whole lot of time maintaining a server, so a convenient, set-and-forget design was kept first in mind. There are existing game server managing solutions out there, but none of them to my knowledge were designed for a singular host with underwhelming specs. 
 <br>
 <br>
+Hopefully this finds someone facing the same problem as I. 
+<br>
 ## Features
 + Automatically start and stop server software based on established connections: <br>
 *ServerDemon will wait for connections on a specified port, and on receiving connections will hand the port back to the OS and run the server software. This works both ways, if the server software is running and no connections are present, the server software will be shutdown.*
