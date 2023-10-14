@@ -1,8 +1,5 @@
 # ServerDemon
-Automated game server manager for low-resource Linux machines. 
-<br>
-<br>
-ServerDemon is designed to manage and run multiple game servers on underwhelming hardware, making it possible to rent a low-cost VPS to host concurrently active servers— autonomously. 
+Automated game server manager for low-resource Linux machines. Designed to manage and run multiple game servers on underwhelming hardware, making it possible to rent a low-cost VPS to host concurrently active servers— autonomously. 
 <br>
 ## Features
 + Automatically start and stop server software based on established connections: <br>
